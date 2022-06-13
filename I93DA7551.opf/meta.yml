@@ -1,0 +1,225 @@
+id: I93DA7551
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-04-01T11:59:57+00:00'
+last_modified: '2022-06-13T12:44:07.370764+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W1KG16666
+  title: རྔོག་སློབ་བརྒྱུད་དང་བཅས་པའི་གསུང་འབུམ།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
+  base:
+    19AC:
+      image_group_id: I4PD2667
+      title: ''
+      total_pages: ''
+      order: 1
+      base_file: 19AC.txt
+    F144:
+      image_group_id: I4PD2668
+      title: ''
+      total_pages: ''
+      order: 2
+      base_file: F144.txt
+    11D6:
+      image_group_id: I4PD2669
+      title: ''
+      total_pages: ''
+      order: 3
+      base_file: 11D6.txt
+    '2763':
+      image_group_id: I4PD2670
+      title: ''
+      total_pages: ''
+      order: 4
+      base_file: 2763.txt
+    '4544':
+      image_group_id: I4PD2671
+      title: ''
+      total_pages: ''
+      order: 5
+      base_file: 4544.txt
+    3DCB:
+      image_group_id: I4PD2672
+      title: ''
+      total_pages: ''
+      order: 6
+      base_file: 3DCB.txt
+    2E44:
+      image_group_id: I4PD2673
+      title: ''
+      total_pages: ''
+      order: 7
+      base_file: 2E44.txt
+    0BB8:
+      image_group_id: I4PD2674
+      title: ''
+      total_pages: ''
+      order: 8
+      base_file: 0BB8.txt
+    F002:
+      image_group_id: I4PD2675
+      title: ''
+      total_pages: ''
+      order: 9
+      base_file: F002.txt
+    3FA8:
+      image_group_id: I4PD2676
+      title: ''
+      total_pages: ''
+      order: 10
+      base_file: 3FA8.txt
+    '9124':
+      image_group_id: I4PD2677
+      title: ''
+      total_pages: ''
+      order: 11
+      base_file: 9124.txt
+    B18E:
+      image_group_id: I4PD2678
+      title: ''
+      total_pages: ''
+      order: 12
+      base_file: B18E.txt
+    '5146':
+      image_group_id: I4PD2679
+      title: ''
+      total_pages: ''
+      order: 13
+      base_file: 5146.txt
+    EF4D:
+      image_group_id: I4PD2680
+      title: ''
+      total_pages: ''
+      order: 14
+      base_file: EF4D.txt
+    58A5:
+      image_group_id: I4PD2681
+      title: ''
+      total_pages: ''
+      order: 15
+      base_file: 58A5.txt
+    3C23:
+      image_group_id: I4PD2682
+      title: ''
+      total_pages: ''
+      order: 16
+      base_file: 3C23.txt
+    '9889':
+      image_group_id: I4PD2683
+      title: ''
+      total_pages: ''
+      order: 17
+      base_file: 9889.txt
+    89FA:
+      image_group_id: I4PD2684
+      title: ''
+      total_pages: ''
+      order: 18
+      base_file: 89FA.txt
+    491B:
+      image_group_id: I4PD2685
+      title: ''
+      total_pages: ''
+      order: 19
+      base_file: 491B.txt
+    FB68:
+      image_group_id: I4PD2686
+      title: ''
+      total_pages: ''
+      order: 20
+      base_file: FB68.txt
+    45A5:
+      image_group_id: I4PD2687
+      title: ''
+      total_pages: ''
+      order: 21
+      base_file: 45A5.txt
+    617D:
+      image_group_id: I4PD2688
+      title: ''
+      total_pages: ''
+      order: 22
+      base_file: 617D.txt
+    2A51:
+      image_group_id: I4PD2689
+      title: ''
+      total_pages: ''
+      order: 23
+      base_file: 2A51.txt
+    DE77:
+      image_group_id: I4PD2690
+      title: ''
+      total_pages: ''
+      order: 24
+      base_file: DE77.txt
+    5FC7:
+      image_group_id: I4PD2691
+      title: ''
+      total_pages: ''
+      order: 25
+      base_file: 5FC7.txt
+    F955:
+      image_group_id: I4PD2692
+      title: ''
+      total_pages: ''
+      order: 26
+      base_file: F955.txt
+    687D:
+      image_group_id: I4PD2693
+      title: ''
+      total_pages: ''
+      order: 27
+      base_file: 687D.txt
+    BDD5:
+      image_group_id: I4PD2694
+      title: ''
+      total_pages: ''
+      order: 28
+      base_file: BDD5.txt
+    F873:
+      image_group_id: I4PD2695
+      title: ''
+      total_pages: ''
+      order: 29
+      base_file: F873.txt
+    37E5:
+      image_group_id: I4PD2696
+      title: ''
+      total_pages: ''
+      order: 30
+      base_file: 37E5.txt
+    E202:
+      image_group_id: I4PD2697
+      title: ''
+      total_pages: ''
+      order: 31
+      base_file: E202.txt
+    0C6D:
+      image_group_id: I4PD2698
+      title: ''
+      total_pages: ''
+      order: 32
+      base_file: 0C6D.txt
+    525F:
+      image_group_id: I4PD2699
+      title: ''
+      total_pages: ''
+      order: 33
+      base_file: 525F.txt
+    9A43:
+      image_group_id: I4PD2700
+      title: ''
+      total_pages: ''
+      order: 34
+      base_file: 9A43.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
